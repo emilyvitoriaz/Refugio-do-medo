@@ -1,4 +1,4 @@
-# Refugio do medo
+# Refúgio do medo
  Jogo estilo RPG de escolhas, gênero de terror/suspense, feito para o trabalho semestral de computação I da UFRJ.
 
  O jogo é para ser iniciado e jogado no próprio terminal.
